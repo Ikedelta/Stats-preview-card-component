@@ -81,6 +81,7 @@ main{
 
     .container{
         flex-direction: column-reverse;
+        width: 100%;
     }
     .Text{
         width: 100%;
